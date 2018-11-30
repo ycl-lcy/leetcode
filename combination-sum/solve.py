@@ -28,7 +28,7 @@ class Solution(object):
                 continue
         return x, sol
 
-if __name__ == '__main__':
-    s = Solution()
-    print s.combinationSum([8,7,4,3], 11)
+#if __name__ == '__main__':
+#    s = Solution()
+#    print s.combinationSum([8,7,4,3], 11)
 
